@@ -1,1 +1,1 @@
-# board
+# project-c23-template
